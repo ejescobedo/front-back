@@ -1,6 +1,9 @@
 {
-  "host": "localhost",
-  "user": "root",
+  "host": "practicummysql.mariadb.database.azure.com",
+  "port": 3306,
+  "user": "practicumstudent@practicummysql",
   "database": "login",
-  "password": ""
+  "password": "Salamah2023",
+  "connectTimeout": 20000
 }
+
